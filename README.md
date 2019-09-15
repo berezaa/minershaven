@@ -1,6 +1,6 @@
 # Miner's Haven
 <a href="https://www.roblox.com/games/258258996/Miners-Haven">
-    <img src="https://t0.rbxcdn.com/deafeec370f0c3b21c8c11f8ebda521c" alt="Miner's Haven" height="500" />
+    <img src="https://t0.rbxcdn.com/deafeec370f0c3b21c8c11f8ebda521c" alt="Miner's Haven" height="400" />
 </a>
 
 ## About
