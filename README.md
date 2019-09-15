@@ -17,7 +17,7 @@ While the contents of this file are made available for commercial use and modifi
 ## Contact 
 * Andrew Bereza
 * [@berezaagames](https://twitter.com/berezaagames)
-* [LinkedIn](https://linkedin.com/andrewbereza)
+* [LinkedIn](https://www.linkedin.com/in/berezaa)
 * andrew@bergames.com
 
 Copyright (c) 2019 Andrew Bereza
