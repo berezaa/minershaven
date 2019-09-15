@@ -17,7 +17,7 @@ After four years, the game file is being made available for public use in educat
 
 minershaven.rblx is available under the terms of the Apache 2 License. 
  
-## Contact 
+## Creator
 * Andrew Bereza
 * [@berezaagames](https://twitter.com/berezaagames)
 * [LinkedIn](https://www.linkedin.com/in/berezaa)
