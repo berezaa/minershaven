@@ -1,7 +1,4 @@
-# Miner's Haven
-<a href="https://www.roblox.com/games/258258996/Miners-Haven">
-    <img src="https://t0.rbxcdn.com/deafeec370f0c3b21c8c11f8ebda521c" alt="Miner's Haven" height="300" />
-</a>
+Miner's Haven
 
 ## About
 Originally published on June 12th 2015, Miner's Haven is a revolutionary tycoon where players position components to create intricate ore processing lines. On Roblox, Miner's Haven has been played by over 16 million unique registered users. 
