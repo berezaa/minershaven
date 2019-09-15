@@ -7,14 +7,13 @@ After four years, the game file is being made available for public use in educat
 
 ## License 
 
-✔️ You may use materials from the source file, including source code, to create commercial projects with independant intellectual property
+✔️ You may use materials from the source file, including source code, to create commercial projects with original intellectual property
 
 ✔️ You may create and upload mods and edits of Miner's Haven, as the intellectual property is not used commmercially
 
-❌ You are prohibited from using the "Miner's Haven" name or other trade/design mark commercially without written permission from the author.
+❌ You are prohibited from using the "Miner's Haven" name and other intellectual property commercially. See [LICENSE](LICENSE) for details. 
 
-
-minershaven.rblx is available under the terms of the Apache 2 License. [LICENSE](LICENSE) for details. 
+minershaven.rblx is available under the terms of the Apache 2 License. 
  
 ## Contact 
 * Andrew Bereza
