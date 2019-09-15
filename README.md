@@ -1,9 +1,9 @@
 ## About
-Originally published on June 12th 2015, Miner's Haven is a revolutionary tycoon where players position components to create intricate ore processing lines. On Roblox, Miner's Haven has been played by over 16 million unique registered users. 
+Originally published on June 12th 2015, Miner's Haven is a revolutionary tycoon-style game where players obtain and implement machine components to create intricate rare material processing lines. On Roblox, Miner's Haven has been played by over 16 million unique registered users. 
 
 [Play Miner's Haven on Roblox](https://www.roblox.com/games/258258996/Miners-Haven)
 
-After four years, the game file is being provided for public use in educational, recreational or commercial purposes.  
+After four years, the game file is being made available for public use in educational, recreational or commercial purposes.  
 
 ## License 
 minershaven.rblx is available under the terms of the Apache 2 License [LICENSE.txt](LICENSE.txt) for details. 
