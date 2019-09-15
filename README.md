@@ -10,6 +10,6 @@ After four years, the game file is being provided for public use in educational,
 ## License 
  
 ## Contact 
-* [@berezaagames](https://twitter.com/berezaagames)
-* [LinkedIn](https://twitter.com/andrewbereza)
-andrew@bergames.com
+*[@berezaagames](https://twitter.com/berezaagames)
+*[LinkedIn](https://twitter.com/andrewbereza)
+*andrew@bergames.com
