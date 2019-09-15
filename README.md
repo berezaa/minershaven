@@ -19,9 +19,9 @@ minershaven.rbxl is available under the terms of the Apache 2 License. See [LICE
 
 ## Usage
 
-Source files have been extracted, and are seen in src/
+Download [minershaven.rbxl](minershaven.rbxl) and open using [Roblox Studio](https://www.roblox.com/create)
 
-You can download the actual place files in places/.
+Source files have been extracted using rbxlx-to-rojo, and are seen in src/
 
 ## Creator
 * Andrew Bereza
