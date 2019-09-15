@@ -1,9 +1,7 @@
 # Miner's Haven
-<div align="center">
-    <a href="https://rojo.space">
-        <img src="https://t0.rbxcdn.com/deafeec370f0c3b21c8c11f8ebda521c" alt="Rojo" height="217" />
-    </a>
-</div>
+<a href="https://www.roblox.com/games/258258996/Miners-Haven">
+    <img src="https://t0.rbxcdn.com/deafeec370f0c3b21c8c11f8ebda521c" alt="Rojo" height="217" />
+</a>
 
 ## About
 Originally published on June 12th 2015, Miner's Haven is a revolutionary tycoon where players position components to create intricate ore processing lines. On Roblox, Miner's Haven has been played by over 16 million unique registered users. 
