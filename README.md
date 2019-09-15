@@ -3,6 +3,8 @@ Originally published on June 12th 2015, Miner's Haven is a revolutionary tycoon-
 
 [Play Miner's Haven on Roblox](https://www.roblox.com/games/258258996/Miners-Haven)
 
+[Miner's Haven Wiki](https://minershaven.fandom.com/wiki/Welcome_To_The_Miner%27s_Haven_Wikia!)
+
 After four years, the game file is being made available for public use in educational, recreational or commercial purposes.  
 
 ## License 
