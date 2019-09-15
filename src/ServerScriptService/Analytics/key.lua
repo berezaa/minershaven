@@ -1,0 +1,69 @@
+-- Scroll down to enter your GameAnalytics GameKey and Secret Key  |
+-- Make sure you don't share these secret keys with anything!      V
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+local module = {}
+
+module.GameKey = ""
+module.SecretKey = ""
+
+return module
