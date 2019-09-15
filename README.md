@@ -15,7 +15,7 @@ After four years, the game file is being made available for public use in educat
 
 ❌ You are prohibited from using the "Miner's Haven" name and other brand property commercially. 
 
-minershaven.rblx is available under the terms of the Apache 2 License. See [LICENSE](LICENSE) for details. 
+minershaven.rbxl is available under the terms of the Apache 2 License. See [LICENSE](LICENSE) for details. 
  
 ## Creator
 * Andrew Bereza
