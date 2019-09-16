@@ -5,7 +5,7 @@ Originally published on June 12th 2015, Miner's Haven is a revolutionary tycoon-
 
 [Miner's Haven Wiki](https://minershaven.fandom.com/wiki/Welcome_To_The_Miner%27s_Haven_Wikia!)
 
-After four years, the game file is being made available for public use in educational, recreational or commercial purposes.
+After four years, the game file is being made available for public use in educational, recreational or commercial purposes. [Read the Medium article here.](https://medium.com/@berezaa/releasing-miners-haven-to-the-public-domain-b925eac1729)
 
 ## License
 
