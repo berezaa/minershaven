@@ -21,6 +21,8 @@ minershaven.rbxl is available under the terms of the Apache 2 License. See [LICE
 
 Download [minershaven.rbxl](minershaven.rbxl) and open using [Roblox Studio](https://www.roblox.com/create)
 
+Publish minershaven.rbxl to a Roblox place to activate the game. The place file will not be functional in Play Solo until it is published online.
+
 Source files have been extracted using rbxlx-to-rojo, and are available in src/
 
 ## Creator
