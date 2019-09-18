@@ -23,7 +23,7 @@ Download [minershaven.rbxl](minershaven.rbxl) and open using [Roblox Studio](htt
 
 Publish minershaven.rbxl to a Roblox place to activate the game. The place file will not be functional in Play Solo until it is published online.
 
-Source files have been extracted using rbxlx-to-rojo, and are available in src/
+Source files have been extracted using [rbxlx-to-rojo](https://github.com/rojo-rbx/rbxlx-to-rojo), and are available in src/
 
 ## Creator
 * Andrew Bereza
